@@ -39,3 +39,35 @@ Este é um sistema moderno para gerenciamento de atividades acadêmicas, oferece
    ```bash
    git clone https://github.com/Roberto10Andrade/ufc-sobral-activities-next.git
    cd ufc-sobral-activities-next
+   ```
+
+### 2. Instale as dependências
+
+```bash
+npm install --force
+```
+
+### 3. Execute o projeto
+
+```bash
+# Modo desenvolvimento
+npm run dev
+
+
+# Modo produção
+npm run build
+npm start
+# ou
+yarn build
+yarn start
+```
+
+O projeto estará disponível em [http://localhost:3000](http://localhost:3000)
+
+## Tecnologias Utilizadas
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+---
+
