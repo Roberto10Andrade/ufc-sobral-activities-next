@@ -33,13 +33,12 @@ Este é um sistema moderno para gerenciamento de atividades acadêmicas, oferece
 - npm ou yarn
 
 ### Passo a Passo
+### 1 .Clone o repositório
 
-1. **Clone o repositório**
-
-   ```bash
-   git clone https://github.com/Roberto10Andrade/ufc-sobral-activities-next.git
-   cd ufc-sobral-activities-next
-   ```
+```bash
+git clone https://github.com/Roberto10Andrade/ufc-sobral-activities-next.git
+cd ufc-sobral-activities-next
+```
 
 ### 2. Instale as dependências
 
